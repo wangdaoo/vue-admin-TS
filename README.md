@@ -29,3 +29,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 基于vue-cli3搭建一个练习项目
+
+- TypeScript
+- vue-cli3

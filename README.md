@@ -32,3 +32,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - TypeScript
 - vue-cli3
+
+<!-- 测试 gitmoji 表情 -->
